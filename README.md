@@ -1,2 +1,2 @@
 # improved-waddle
-Python projects galore. Check it out.
+Alien Invasion, a Space Invaders clone created using the Pygame platform. 
